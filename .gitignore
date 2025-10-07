@@ -1,0 +1,31 @@
+# .NET Framework build and Visual Studio output
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.cache
+*.sln.docstates
+*.db
+*.sqlite
+*.vsidx
+
+# Local record files
+**/*Superhero*.txt
+**/*superhero*.txt
+
+# Coursework dates and packaged deliverables
+dates.txt
+date.txt
+DATES.txt
+*.zip
+*.pdf
+
+# Local editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
